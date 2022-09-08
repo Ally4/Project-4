@@ -1,4 +1,4 @@
-[![CircleCI](https://circleci.com/gh/ally4/project4.svg?style=svg)](https://circleci.com/gh/ally/project4)
+[![CircleCI](https://dl.circleci.com/status-badge/img/gh/Ally4/Project-4/tree/main.svg?style=svg)](https://dl.circleci.com/status-badge/redirect/gh/Ally4/Project-4/tree/main)
 
 ## Project Overview
 
